@@ -6,5 +6,5 @@
   }
 
   function startExam() {
-    window.location.href = "../main-p.html"; // Replace with your actual exam page
+    window.location.href = "exam.html"; // Replace with your actual exam page
   }
